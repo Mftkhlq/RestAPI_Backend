@@ -25,7 +25,7 @@ backend_tugas/
 
 ---
 
-## 🗃️ Skema Database
+## Skema Database
 
 Tabel **`produk`** dibuat di dalam database `Rest_API_Backend` dengan struktur berikut:
 
@@ -39,7 +39,7 @@ Tabel **`produk`** dibuat di dalam database `Rest_API_Backend` dengan struktur b
 
 ---
 
-## 🚀 Instalasi & Cara Menjalankan
+## Instalasi & Cara Menjalankan
 
 ### Prasyarat
 - Node.js terinstal di komputer.
